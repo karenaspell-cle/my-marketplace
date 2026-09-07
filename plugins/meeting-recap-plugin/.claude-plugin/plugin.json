@@ -1,0 +1,8 @@
+{
+  "name": "meeting-recap-plugin",
+  "description": "Adds a meeting-recap skill for turning raw notes into decisions, action items, and open questions",
+  "version": "1.0.0",
+  "author": {
+    "name": "Karen"
+  }
+}

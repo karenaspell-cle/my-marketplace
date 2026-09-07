@@ -1,0 +1,19 @@
+{
+  "name": "karen-personal-tools",
+  "owner": {
+    "name": "Karen"
+  },
+  "description": "Personal Claude Code plugins",
+  "plugins": [
+    {
+      "name": "meeting-recap-plugin",
+      "source": "./plugins/meeting-recap-plugin",
+      "description": "Adds a meeting-recap skill for turning raw notes into decisions, action items, and open questions"
+    },
+    {
+      "name": "product-meeting-ask-plugin",
+      "source": "./plugins/product-meeting-ask-plugin",
+      "description": "Sales-to-product meeting request intake and triage workflow (Notion + Slack) — placeholder config, edit before use"
+    }
+  ]
+}

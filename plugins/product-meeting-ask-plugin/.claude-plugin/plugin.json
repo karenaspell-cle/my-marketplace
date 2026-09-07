@@ -1,0 +1,8 @@
+{
+  "name": "product-meeting-ask-plugin",
+  "description": "Sales-to-product meeting request intake and triage workflow (Notion + Slack). Requires editing references/workspace-config.md with your own workspace IDs before use.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Karen"
+  }
+}
