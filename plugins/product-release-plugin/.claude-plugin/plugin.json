@@ -1,0 +1,8 @@
+{
+  "name": "product-release-plugin",
+  "description": "Generates a release brief in a Product Release templates Notion database from a Cross-Team Work and Learning card, with related-card rollup and optional slide deck. Requires editing references/workspace-config.md with your own database IDs before use.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Karen"
+  }
+}

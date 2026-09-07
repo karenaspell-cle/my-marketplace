@@ -14,6 +14,11 @@
       "name": "product-meeting-ask-plugin",
       "source": "./plugins/product-meeting-ask-plugin",
       "description": "Sales-to-product meeting request intake and triage workflow (Notion + Slack) — placeholder config, edit before use"
+    },
+    {
+      "name": "product-release-plugin",
+      "source": "./plugins/product-release-plugin",
+      "description": "Generates a release brief in the Product Release templates Notion database from a Cross-Team Work and Learning card, with related-card rollup and optional slide deck"
     }
   ]
 }
